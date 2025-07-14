@@ -1,0 +1,7 @@
+fieldExpression/fieldExpression.C
+
+resolutionIndex/LES_CelikEtaIndex/CelikEtaIndex.C
+resolutionIndex/LES_CelikNuIndex/CelikNuIndex.C
+resolutionIndex/LES_PopeIndex/PopeIndex.C
+
+LIB = $(FOAM_USER_LIBBIN)/libMomentumTransportFunctionObjects

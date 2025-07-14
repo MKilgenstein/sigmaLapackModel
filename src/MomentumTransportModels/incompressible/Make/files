@@ -1,0 +1,4 @@
+incompressibleMomentumTransportModel.C
+incompressibleMomentumTransportModels.C
+
+LIB = $(FOAM_USER_LIBBIN)/libincompressibleSigmaLapackModel
